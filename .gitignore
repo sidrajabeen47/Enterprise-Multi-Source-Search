@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database & Uploads
+backend/chroma_db/
+backend/uploads/
+chroma_db/
+uploads/
+
+# Node
+frontend/node_modules/
+node_modules/
+frontend/dist/
